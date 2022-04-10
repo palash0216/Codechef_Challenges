@@ -1,0 +1,12 @@
+//Options You can try to Clean Up the unwanted files from your C dirve.
+Go to the start menu open the Run section.[1 to 3]
+1.Type "temp" and press enter -> Delete  all the files.
+2.Type "%temp%" and press enter -> Delete all the files.
+3.Type "prefetch" and press the enter -> Delete all the files.
+
+Now before moving to the 4 option .
+let it be clear that the files you should be deleting will be reached in the recycle bin.
+And Recycle have the limit of arounf 50 GB from C drive so.
+4.Clean Up your Recycle bin.[Empty Recycle Bin].
+5.Search down the "Disk Cleanup" and clean the following files.
+6.Search down the "Add or Remove programs" then uninstall the unused applications.
